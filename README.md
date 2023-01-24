@@ -3,7 +3,8 @@
 # 💫 About Me:
 - 🔭 I’m currently working on at stc as Application Developer.
 - 🌱 I’m currently practicing AWS services.
-- 👯 I’m looking to collaborate on new projects
+- 👯 I’m looking to collaborate on new projects.
+- 💬 Reach me for React, Node, Spring boot support.
 - 📫 How to reach me: Email: ffalowaini@gmail.com - Twitter: @ffalowaini
 
 
